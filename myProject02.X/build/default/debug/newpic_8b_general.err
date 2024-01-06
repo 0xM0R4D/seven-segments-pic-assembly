@@ -1,0 +1,4 @@
+Warning[205] /home/mourad/MPLABXProjects/myProject02.X/newpic_8b_general.asm 1 : Found directive in column 1. (LIST)
+Warning[205] /home/mourad/MPLABXProjects/myProject02.X/newpic_8b_general.asm 2 : Found directive in column 1. (include)
+Warning[205] /home/mourad/MPLABXProjects/myProject02.X/newpic_8b_general.asm 5 : Found directive in column 1. (ORG)
+Warning[205] /home/mourad/MPLABXProjects/myProject02.X/newpic_8b_general.asm 34 : Found directive in column 1. (END)

@@ -1,0 +1,8 @@
+Warning[205] /home/mourad/MPLABXProjects/myProject02.X/newpic_8b_general.asm 1 : Found directive in column 1. (list)
+Warning[207] /home/mourad/MPLABXProjects/myProject02.X/newpic_8b_general.asm 58 : Found label after column 1. (counter)
+Warning[205] /home/mourad/MPLABXProjects/myProject02.X/newpic_8b_general.asm 64 : Found directive in column 1. (BANKSEL)
+Warning[203] /home/mourad/MPLABXProjects/myProject02.X/newpic_8b_general.asm 65 : Found opcode in column 1. (CLRF)
+Warning[205] /home/mourad/MPLABXProjects/myProject02.X/newpic_8b_general.asm 66 : Found directive in column 1. (BANKSEL)
+Warning[207] /home/mourad/MPLABXProjects/myProject02.X/newpic_8b_general.asm 69 : Found label after column 1. (START)
+Warning[207] /home/mourad/MPLABXProjects/myProject02.X/newpic_8b_general.asm 76 : Found label after column 1. (LOOP)
+Warning[205] /home/mourad/MPLABXProjects/myProject02.X/newpic_8b_general.asm 104 : Found directive in column 1. (end)
